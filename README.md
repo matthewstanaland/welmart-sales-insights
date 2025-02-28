@@ -14,9 +14,3 @@ This project analyzes sales data from **Welmart**, a wholesale store operating a
 -  **Data cleaning & transformation**
 -  **Business insights & reporting**
 -  **Git & GitHub version control**
-
-## Installation & Usage 
-###  Clone the repository
-```bash
-git clone https://github.com/matthewstanaland/welmart-sales-insights.git
-cd welmart-sales-insights
