@@ -8,7 +8,7 @@ This project analyzes sales data from **Welmart**, a wholesale store operating a
 -  **State** with the most orders
 -  **Year** with the highest revenue
 
-## Skills Demonstrated 🛠️
+## Skills Demonstrated 
 -  **PySpark** for Big Data processing
 -  **Python & Pandas** for data analysis
 -  **Data cleaning & transformation**
